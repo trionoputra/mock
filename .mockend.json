@@ -32,7 +32,14 @@
       }
     }
   },
-  "User": {},
+  "User": {
+    "name": {
+      "string": [
+        "Thor",
+        "Loki"
+      ]
+    }
+  },
   "Comment": {},
   "Person": {},
   "City": {}
