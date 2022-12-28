@@ -33,7 +33,9 @@
     }
   },
   "User": {
-    "name": {}
+    "name": {
+      "String" : {}
+    }
   },
   "Comment": {},
   "Person": {},
